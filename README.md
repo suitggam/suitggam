@@ -1,6 +1,7 @@
-## 🧑‍💻 장동현 (Donghyeon Jang) / 깜팅이 (suitggam)
+### 🧑‍💻 장동현 (Donghyeon Jang) / 깜팅이 (suitggam)
 
-> 안녕하세요, 기획하고 개발하는 기발자 장동현입니다.
+**안녕하세요, 기획하고 개발하는 기발자 장동현입니다.**
+
 - 🎯 관심 분야: 서비스 기획, 웹/앱 개발, UX, 풀스택 개발, 프로덕트 엔지니어링, 사용자 행동 데이터 분석
 - 🚀 목표: 사용자의 불편함을 발견하고 문제 정의와 인터뷰부터 요구사항 분석, 아키텍처 설계, 개발, 운영까지 연결해 실질적인 해결책을 만드는 것
 
@@ -15,11 +16,11 @@
 ### 💼 Experience
 
 - 🏢 한국장애인고용공단 전북지사 취업지원부 - 사무행정 (인턴)
-- 기간: 2024.02.19 ~ 2024.05.18
-- 주요 업무:
-  - 장애인 취업 교육 과정 운영 지원
-  - 취업 교육 대상자 모집 및 홍보 활동
-  - 행정 및 교육 서류 관리
+  - 기간: 2024.02.19 ~ 2024.05.18
+  - 주요 업무:
+    - 장애인 취업 교육 과정 운영 지원
+    - 취업 교육 대상자 모집 및 홍보 활동
+    - 행정 및 교육 서류 관리
 
 ---
 
@@ -70,9 +71,12 @@
 
 ### 📊 Stats
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ktf0409)](https://solved.ac/ktf0409)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suitggam&layout=compact)
+<p>
+  <a href="https://solved.ac/ktf0409">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ktf0409" alt="Solved.ac Profile" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suitggam&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
