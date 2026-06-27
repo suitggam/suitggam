@@ -93,5 +93,3 @@
 
 - ✉️ Email: ktf0409@naver.com
 - 📝 Blog: [제너럴을 추구하는 기발자](https://suitggam.tistory.com/)
-- 🌐 Portfolio: [포트폴리오 링크 - 추후 작성]
-- 💼 LinkedIn: [LinkedIn - 추후 작성]
