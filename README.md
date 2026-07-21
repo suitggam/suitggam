@@ -26,9 +26,9 @@
 
 ### 🚀 Projects
 
-- 🖼️ 전시회 정보 종합 플랫폼 - artmoa `링크 추후 연결` (2026.03.01 ~ )
+- 🖼️ 전시회 정보 종합 플랫폼 - artmoa (2026.03.01 ~ )
 - 🧠 체계적인 알고리즘 공부를 위한 스터디 그룹 - [algoriming](https://github.com/suitggam/algoriming) (2025.01.17 ~ 2026.04.28)
-- 👶 육아 기록/관찰 종합 플랫폼 - ilog `링크 추후 연결` (2025.10.10 ~ 2025.11.20)
+- 👶 육아 기록/관찰 종합 플랫폼 - [ilog](https://github.com/suitggam/ilog) (2025.10.10 ~ 2025.11.20)
 - 📈 주식 초보자를 위한 길잡이 플랫폼 - [stock-compass](https://github.com/suitggam/stock-compass) (2025.08.25 ~ 2025.09.29)
 - 🤖 AI 기반 실시간 면접 연습 플랫폼 - [kkori](https://github.com/suitggam/kkori) (2025.07.07 ~ 2025.08.18)
 
@@ -84,7 +84,6 @@
   <a href="https://solved.ac/ktf0409">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ktf0409" alt="Solved.ac Profile" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suitggam&layout=compact" alt="Top Languages" />
 </p>
 
 ---
